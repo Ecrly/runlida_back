@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/runlida-admin/runlida-admin.iml" filepath="$PROJECT_DIR$/runlida-admin/runlida-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runlida-common/runlida-common.iml" filepath="$PROJECT_DIR$/runlida-common/runlida-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runlida-framework/runlida-framework.iml" filepath="$PROJECT_DIR$/runlida-framework/runlida-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runlida-generator/runlida-generator.iml" filepath="$PROJECT_DIR$/runlida-generator/runlida-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runlida-quartz/runlida-quartz.iml" filepath="$PROJECT_DIR$/runlida-quartz/runlida-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runlida-system/runlida-system.iml" filepath="$PROJECT_DIR$/runlida-system/runlida-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/runlida_back.iml" filepath="$PROJECT_DIR$/.idea/runlida_back.iml" />
+    </modules>
+  </component>
+</project>
