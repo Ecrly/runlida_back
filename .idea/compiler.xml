@@ -21,6 +21,7 @@
       <module name="runlida-generator" target="1.8" />
       <module name="runlida-quartz" target="1.8" />
       <module name="runlida-system" target="1.8" />
+      <module name="runlida_back" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
